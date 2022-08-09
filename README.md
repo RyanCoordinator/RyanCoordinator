@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RyanCoordinator
 - 👀 I’m interested in ... Public Goods and Dreams
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... To coordinate at ETHToronto
+- 💞️ I’m looking to collaborate on ... SIWE + Mastodon
+- 📫 How to reach me ... Attend ETHToronto!
 
 Just getting this all set up, don't worry, we'll figure it out together :)
 
